@@ -1,0 +1,438 @@
+{
+    "isCalculationActive": true,
+    "lotName": "string",
+    "lotPriceInRub": 1234,
+    "minNumberOfParticipants": 30,
+    "bidRange": {
+      "from": 5000,
+      "to": 40000
+    },
+    "departments": [
+        {
+            "staff": [
+                {
+                    "availableBalance": 2617,
+                    "userCrocCode": "SU319",
+                    "userFirstName": "userFirstName2",
+                    "userLastName": "userLastName2",
+                    "userMiddleName": "userMiddleName2",
+                    "userName": "userName2"
+                },
+                {
+                    "availableBalance": 60541,
+                    "userCrocCode": "SU64651",
+                    "userFirstName": "userFirstName4",
+                    "userLastName": "userLastName4",
+                    "userMiddleName": "userMiddleName4",
+                    "userName": "userName4",
+                    "login": "userName4",
+                    "numberOfPurchases": 1,
+                    "spent": 3900,
+                    "earned": 55,
+                    "missionsCompleted": 2
+                },
+                {
+                    "availableBalance": 45651,
+                    "userCrocCode": "SU878",
+                    "userFirstName": "userFirstName8",
+                    "userLastName": "userLastName8",
+                    "userMiddleName": "userMiddleName8",
+                    "userName": "userName8",
+                    "login": "userName8",
+                    "numberOfPurchases": 2,
+                    "spent": 3850,
+                    "earned": 1250,
+                    "missionsCompleted": 5
+                },
+                {
+                    "availableBalance": 14939,
+                    "userCrocCode": "SU56641",
+                    "userFirstName": "userFirstName9",
+                    "userLastName": "userLastName9",
+                    "userMiddleName": "userMiddleName9",
+                    "userName": "userName9",
+                    "login": "userName9",
+                    "numberOfPurchases": 2,
+                    "spent": 5100,
+                    "earned": 735,
+                    "missionsCompleted": 6
+                },
+                {
+                    "availableBalance": 10256,
+                    "userCrocCode": "SU72082",
+                    "userFirstName": "userFirstName11",
+                    "userLastName": "userLastName11",
+                    "userMiddleName": "userMiddleName11",
+                    "userName": "userName11",
+                    "login": "userName11",
+                    "numberOfPurchases": 13,
+                    "spent": 3190,
+                    "earned": 1215,
+                    "missionsCompleted": 7
+                },
+                {
+                    "availableBalance": 30549,
+                    "userCrocCode": "SU3154",
+                    "userFirstName": "userFirstName12",
+                    "userLastName": "userLastName12",
+                    "userMiddleName": "userMiddleName12",
+                    "userName": "userName12",
+                    "login": "userName12",
+                    "numberOfPurchases": 1,
+                    "spent": 6800,
+                    "earned": 865,
+                    "missionsCompleted": 4
+                },
+                {
+                    "availableBalance": 2493,
+                    "userCrocCode": "SU2531",
+                    "userFirstName": "userFirstName13",
+                    "userLastName": "userLastName13",
+                    "userMiddleName": "userMiddleName13",
+                    "userName": "userName13"
+                },
+                {
+                    "availableBalance": 339,
+                    "userCrocCode": "SU1351",
+                    "userFirstName": "userFirstName14",
+                    "userLastName": "userLastName14",
+                    "userMiddleName": "userMiddleName14",
+                    "userName": "userName14",
+                    "login": "userName14",
+                    "numberOfPurchases": 2,
+                    "spent": 2400,
+                    "earned": 255,
+                    "missionsCompleted": 4
+                },
+                {
+                    "availableBalance": 2004,
+                    "userCrocCode": "SU3269",
+                    "userFirstName": "userFirstName15",
+                    "userLastName": "userLastName15",
+                    "userMiddleName": "userMiddleName15",
+                    "userName": "userName15"
+                },
+                {
+                    "availableBalance": 2461,
+                    "userCrocCode": "SU1199",
+                    "userFirstName": "userFirstName17",
+                    "userLastName": "userLastName17",
+                    "userMiddleName": "userMiddleName17",
+                    "userName": "userName17"
+                },
+                {
+                    "availableBalance": 6085,
+                    "userCrocCode": "SU137414",
+                    "userFirstName": "userFirstName19",
+                    "userLastName": "userLastName19",
+                    "userMiddleName": "userMiddleName19",
+                    "userName": "userName19"
+                },
+                {
+                    "availableBalance": 30192,
+                    "userCrocCode": "SU34763",
+                    "userFirstName": "userFirstName20",
+                    "userLastName": "userLastName20",
+                    "userMiddleName": "userMiddleName20",
+                    "userName": "userName20",
+                    "login": "userName20",
+                    "numberOfPurchases": 1,
+                    "spent": 150
+                }
+            ],
+            "departmentName": "Департамент 1",
+            "giniCoefficient": "0.57",
+            "id": 1,
+            "maximumBalance": "60541",
+            "minimumBalance": "339",
+            "numberOfStaff": "12",
+            "isChecked": true
+        },
+        {
+            "staff": [
+                {
+                    "availableBalance": 40562,
+                    "userCrocCode": "SU65648",
+                    "userFirstName": "userFirstName3",
+                    "userLastName": "userLastName3",
+                    "userMiddleName": "userMiddleName3",
+                    "userName": "userName3"
+                },
+                {
+                    "availableBalance": 3982,
+                    "userCrocCode": "SU92073",
+                    "userFirstName": "userFirstName6",
+                    "userLastName": "userLastName6",
+                    "userMiddleName": "userMiddleName6",
+                    "userName": "userName6"
+                },
+                {
+                    "availableBalance": 34672,
+                    "userCrocCode": "SU119589",
+                    "userFirstName": "userFirstName18",
+                    "userLastName": "userLastName18",
+                    "userMiddleName": "userMiddleName18",
+                    "userName": "userName18"
+                }
+            ],
+            "departmentName": "Департамент продаж и менеджмента проектов",
+            "giniCoefficient": "0.31",
+            "id": 2,
+            "maximumBalance": "40562",
+            "minimumBalance": "3982",
+            "numberOfStaff": "3",
+            "isChecked": true
+        },
+        {
+            "staff": [
+                {
+                    "availableBalance": 49480,
+                    "userCrocCode": "SU3314",
+                    "userFirstName": "userFirstName1",
+                    "userLastName": "userLastName1",
+                    "userMiddleName": "userMiddleName1",
+                    "userName": "userName1"
+                },
+                {
+                    "availableBalance": 36730,
+                    "userCrocCode": "SU128076",
+                    "userFirstName": "userFirstName5",
+                    "userLastName": "userLastName5",
+                    "userMiddleName": "userMiddleName5",
+                    "userName": "userName5"
+                },
+                {
+                    "availableBalance": 20604,
+                    "userCrocCode": "SU112792",
+                    "userFirstName": "userFirstName16",
+                    "userLastName": "userLastName16",
+                    "userMiddleName": "userMiddleName16",
+                    "userName": "userName16"
+                }
+            ],
+            "departmentName": "Департамент маркетинга",
+            "giniCoefficient": "0.18",
+            "id": 0,
+            "maximumBalance": "49480",
+            "minimumBalance": "20604",
+            "numberOfStaff": "3",
+            "isChecked": true
+        },
+        {
+            "staff": [
+                {
+                    "availableBalance": 869,
+                    "userCrocCode": "SU2546",
+                    "userFirstName": "userFirstName7",
+                    "userLastName": "userLastName7",
+                    "userMiddleName": "userMiddleName7",
+                    "userName": "userName7",
+                    "login": "userName7",
+                    "numberOfPurchases": 3,
+                    "spent": 7750,
+                    "earned": 130,
+                    "missionsCompleted": 10
+                }
+            ],
+            "departmentName": "Департамент информационных технологий",
+            "giniCoefficient": "0.00",
+            "id": 3,
+            "maximumBalance": "869",
+            "minimumBalance": "869",
+            "numberOfStaff": "1",
+            "isChecked": true
+        }
+    ],
+    "mergedEmployees": [
+        {
+            "availableBalance": 339,
+            "userCrocCode": "SU1351",
+            "userFirstName": "userFirstName14",
+            "userLastName": "userLastName14",
+            "userMiddleName": "userMiddleName14",
+            "userName": "userName14",
+            "login": "userName14",
+            "numberOfPurchases": 2,
+            "spent": 2400,
+            "earned": 255,
+            "missionsCompleted": 4
+        },
+        {
+            "availableBalance": 869,
+            "userCrocCode": "SU2546",
+            "userFirstName": "userFirstName7",
+            "userLastName": "userLastName7",
+            "userMiddleName": "userMiddleName7",
+            "userName": "userName7",
+            "login": "userName7",
+            "numberOfPurchases": 3,
+            "spent": 7750,
+            "earned": 130,
+            "missionsCompleted": 10
+        },
+        {
+            "availableBalance": 2004,
+            "userCrocCode": "SU3269",
+            "userFirstName": "userFirstName15",
+            "userLastName": "userLastName15",
+            "userMiddleName": "userMiddleName15",
+            "userName": "userName15"
+        },
+        {
+            "availableBalance": 2461,
+            "userCrocCode": "SU1199",
+            "userFirstName": "userFirstName17",
+            "userLastName": "userLastName17",
+            "userMiddleName": "userMiddleName17",
+            "userName": "userName17"
+        },
+        {
+            "availableBalance": 2493,
+            "userCrocCode": "SU2531",
+            "userFirstName": "userFirstName13",
+            "userLastName": "userLastName13",
+            "userMiddleName": "userMiddleName13",
+            "userName": "userName13"
+        },
+        {
+            "availableBalance": 2617,
+            "userCrocCode": "SU319",
+            "userFirstName": "userFirstName2",
+            "userLastName": "userLastName2",
+            "userMiddleName": "userMiddleName2",
+            "userName": "userName2"
+        },
+        {
+            "availableBalance": 3982,
+            "userCrocCode": "SU92073",
+            "userFirstName": "userFirstName6",
+            "userLastName": "userLastName6",
+            "userMiddleName": "userMiddleName6",
+            "userName": "userName6"
+        },
+        {
+            "availableBalance": 6085,
+            "userCrocCode": "SU137414",
+            "userFirstName": "userFirstName19",
+            "userLastName": "userLastName19",
+            "userMiddleName": "userMiddleName19",
+            "userName": "userName19"
+        },
+        {
+            "availableBalance": 10256,
+            "userCrocCode": "SU72082",
+            "userFirstName": "userFirstName11",
+            "userLastName": "userLastName11",
+            "userMiddleName": "userMiddleName11",
+            "userName": "userName11",
+            "login": "userName11",
+            "numberOfPurchases": 13,
+            "spent": 3190,
+            "earned": 1215,
+            "missionsCompleted": 7
+        },
+        {
+            "availableBalance": 14939,
+            "userCrocCode": "SU56641",
+            "userFirstName": "userFirstName9",
+            "userLastName": "userLastName9",
+            "userMiddleName": "userMiddleName9",
+            "userName": "userName9",
+            "login": "userName9",
+            "numberOfPurchases": 2,
+            "spent": 5100,
+            "earned": 735,
+            "missionsCompleted": 6
+        },
+        {
+            "availableBalance": 20604,
+            "userCrocCode": "SU112792",
+            "userFirstName": "userFirstName16",
+            "userLastName": "userLastName16",
+            "userMiddleName": "userMiddleName16",
+            "userName": "userName16"
+        },
+        {
+            "availableBalance": 30192,
+            "userCrocCode": "SU34763",
+            "userFirstName": "userFirstName20",
+            "userLastName": "userLastName20",
+            "userMiddleName": "userMiddleName20",
+            "userName": "userName20",
+            "login": "userName20",
+            "numberOfPurchases": 1,
+            "spent": 150
+        },
+        {
+            "availableBalance": 30549,
+            "userCrocCode": "SU3154",
+            "userFirstName": "userFirstName12",
+            "userLastName": "userLastName12",
+            "userMiddleName": "userMiddleName12",
+            "userName": "userName12",
+            "login": "userName12",
+            "numberOfPurchases": 1,
+            "spent": 6800,
+            "earned": 865,
+            "missionsCompleted": 4
+        },
+        {
+            "availableBalance": 34672,
+            "userCrocCode": "SU119589",
+            "userFirstName": "userFirstName18",
+            "userLastName": "userLastName18",
+            "userMiddleName": "userMiddleName18",
+            "userName": "userName18"
+        },
+        {
+            "availableBalance": 36730,
+            "userCrocCode": "SU128076",
+            "userFirstName": "userFirstName5",
+            "userLastName": "userLastName5",
+            "userMiddleName": "userMiddleName5",
+            "userName": "userName5"
+        },
+        {
+            "availableBalance": 40562,
+            "userCrocCode": "SU65648",
+            "userFirstName": "userFirstName3",
+            "userLastName": "userLastName3",
+            "userMiddleName": "userMiddleName3",
+            "userName": "userName3"
+        },
+        {
+            "availableBalance": 45651,
+            "userCrocCode": "SU878",
+            "userFirstName": "userFirstName8",
+            "userLastName": "userLastName8",
+            "userMiddleName": "userMiddleName8",
+            "userName": "userName8",
+            "login": "userName8",
+            "numberOfPurchases": 2,
+            "spent": 3850,
+            "earned": 1250,
+            "missionsCompleted": 5
+        },
+        {
+            "availableBalance": 49480,
+            "userCrocCode": "SU3314",
+            "userFirstName": "userFirstName1",
+            "userLastName": "userLastName1",
+            "userMiddleName": "userMiddleName1",
+            "userName": "userName1"
+        },
+        {
+            "availableBalance": 60541,
+            "userCrocCode": "SU64651",
+            "userFirstName": "userFirstName4",
+            "userLastName": "userLastName4",
+            "userMiddleName": "userMiddleName4",
+            "userName": "userName4",
+            "login": "userName4",
+            "numberOfPurchases": 1,
+            "spent": 3900,
+            "earned": 55,
+            "missionsCompleted": 2
+        }
+    ]
+  }

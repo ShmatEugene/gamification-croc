@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "types": [
+      "reflect-metadata"
+    ],
+    "allowJs": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "Node",
+    "resolveJsonModule": true,
+    "jsx": "react-jsx",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "noImplicitAny": false,
+    "strictPropertyInitialization": false,
+    "strictNullChecks": true,
+    "strict": true,
+    "sourceMap": true
+  },
+  "include": [
+    "src",
+    // "craco.config.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "build",
+    "public"
+  ]
+}

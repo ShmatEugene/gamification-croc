@@ -1,0 +1,30 @@
+.wheel-of-fortune-form {
+	position: relative;
+	.ant-input-number {
+		width: 100%;
+	}
+	.ant-form-item:last-child {
+		margin-bottom: 0;
+	}
+	.ant-select {
+		width: 100% !important;
+	}
+	.lot-select {
+		margin-bottom: 24px;
+	}
+	.lot-select-alert {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		width: 100%;
+	}
+	.calculation-type {
+		.ant-btn-group {
+			.ant-btn:first-child {
+				border-radius: 50px 0 0 50px !important;
+			}
+			.ant-btn:last-child {
+				border-radius: 0 50px 50px 0 !important;
+			}
+		}
+	}
+}

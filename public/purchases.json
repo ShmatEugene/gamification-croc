@@ -1,0 +1,602 @@
+[
+    {
+      "userCrocCode": "code0",
+      "login": "login0",
+      "spent": 9815,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code1",
+      "login": "login1",
+      "spent": 1786,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code2",
+      "login": "login2",
+      "spent": 667,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code3",
+      "login": "login3",
+      "spent": 3162,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code4",
+      "login": "login4",
+      "spent": 7323,
+      "numberOfPurchases": 8
+    },
+    {
+      "userCrocCode": "code5",
+      "login": "login5",
+      "spent": 4916,
+      "numberOfPurchases": 5
+    },
+    {
+      "userCrocCode": "code6",
+      "login": "login6",
+      "spent": 5115,
+      "numberOfPurchases": 10
+    },
+    {
+      "userCrocCode": "code7",
+      "login": "login7",
+      "spent": 5390,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code8",
+      "login": "login8",
+      "spent": 3353,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code9",
+      "login": "login9",
+      "spent": 3284,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code10",
+      "login": "login10",
+      "spent": 3560,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code11",
+      "login": "login11",
+      "spent": 5636,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code12",
+      "login": "login12",
+      "spent": 3135,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code13",
+      "login": "login13",
+      "spent": 4329,
+      "numberOfPurchases": 3
+    },
+    {
+      "userCrocCode": "code14",
+      "login": "login14",
+      "spent": 7560,
+      "numberOfPurchases": 4
+    },
+    {
+      "userCrocCode": "code15",
+      "login": "login15",
+      "spent": 4898,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code16",
+      "login": "login16",
+      "spent": 1575,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code17",
+      "login": "login17",
+      "spent": 5656,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code18",
+      "login": "login18",
+      "spent": 2951,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code19",
+      "login": "login19",
+      "spent": 4742,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code20",
+      "login": "login20",
+      "spent": 4216,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code21",
+      "login": "login21",
+      "spent": 4231,
+      "numberOfPurchases": 5
+    },
+    {
+      "userCrocCode": "code22",
+      "login": "login22",
+      "spent": 1118,
+      "numberOfPurchases": 5
+    },
+    {
+      "userCrocCode": "code23",
+      "login": "login23",
+      "spent": 51,
+      "numberOfPurchases": 8
+    },
+    {
+      "userCrocCode": "code24",
+      "login": "login24",
+      "spent": 6524,
+      "numberOfPurchases": 8
+    },
+    {
+      "userCrocCode": "code25",
+      "login": "login25",
+      "spent": 7252,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code26",
+      "login": "login26",
+      "spent": 4638,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code27",
+      "login": "login27",
+      "spent": 8328,
+      "numberOfPurchases": 3
+    },
+    {
+      "userCrocCode": "code28",
+      "login": "login28",
+      "spent": 9661,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code29",
+      "login": "login29",
+      "spent": 9868,
+      "numberOfPurchases": 5
+    },
+    {
+      "userCrocCode": "code30",
+      "login": "login30",
+      "spent": 3772,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code31",
+      "login": "login31",
+      "spent": 6535,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code32",
+      "login": "login32",
+      "spent": 3197,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code33",
+      "login": "login33",
+      "spent": 3728,
+      "numberOfPurchases": 5
+    },
+    {
+      "userCrocCode": "code34",
+      "login": "login34",
+      "spent": 8149,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code35",
+      "login": "login35",
+      "spent": 8841,
+      "numberOfPurchases": 10
+    },
+    {
+      "userCrocCode": "code36",
+      "login": "login36",
+      "spent": 9756,
+      "numberOfPurchases": 10
+    },
+    {
+      "userCrocCode": "code37",
+      "login": "login37",
+      "spent": 7387,
+      "numberOfPurchases": 8
+    },
+    {
+      "userCrocCode": "code38",
+      "login": "login38",
+      "spent": 4658,
+      "numberOfPurchases": 4
+    },
+    {
+      "userCrocCode": "code39",
+      "login": "login39",
+      "spent": 6513,
+      "numberOfPurchases": 10
+    },
+    {
+      "userCrocCode": "code40",
+      "login": "login40",
+      "spent": 7785,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code41",
+      "login": "login41",
+      "spent": 3955,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code42",
+      "login": "login42",
+      "spent": 9086,
+      "numberOfPurchases": 4
+    },
+    {
+      "userCrocCode": "code43",
+      "login": "login43",
+      "spent": 2026,
+      "numberOfPurchases": 8
+    },
+    {
+      "userCrocCode": "code44",
+      "login": "login44",
+      "spent": 6641,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code45",
+      "login": "login45",
+      "spent": 3412,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code46",
+      "login": "login46",
+      "spent": 7328,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code47",
+      "login": "login47",
+      "spent": 8767,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code48",
+      "login": "login48",
+      "spent": 2661,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code49",
+      "login": "login49",
+      "spent": 7699,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code50",
+      "login": "login50",
+      "spent": 1203,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code51",
+      "login": "login51",
+      "spent": 3541,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code52",
+      "login": "login52",
+      "spent": 7769,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code53",
+      "login": "login53",
+      "spent": 3564,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code54",
+      "login": "login54",
+      "spent": 3940,
+      "numberOfPurchases": 8
+    },
+    {
+      "userCrocCode": "code55",
+      "login": "login55",
+      "spent": 8366,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code56",
+      "login": "login56",
+      "spent": 7410,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code57",
+      "login": "login57",
+      "spent": 6699,
+      "numberOfPurchases": 5
+    },
+    {
+      "userCrocCode": "code58",
+      "login": "login58",
+      "spent": 4692,
+      "numberOfPurchases": 10
+    },
+    {
+      "userCrocCode": "code59",
+      "login": "login59",
+      "spent": 6196,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code60",
+      "login": "login60",
+      "spent": 6030,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code61",
+      "login": "login61",
+      "spent": 5549,
+      "numberOfPurchases": 8
+    },
+    {
+      "userCrocCode": "code62",
+      "login": "login62",
+      "spent": 4267,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code63",
+      "login": "login63",
+      "spent": 5897,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code64",
+      "login": "login64",
+      "spent": 4628,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code65",
+      "login": "login65",
+      "spent": 6620,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code66",
+      "login": "login66",
+      "spent": 3157,
+      "numberOfPurchases": 3
+    },
+    {
+      "userCrocCode": "code67",
+      "login": "login67",
+      "spent": 4974,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code68",
+      "login": "login68",
+      "spent": 5416,
+      "numberOfPurchases": 4
+    },
+    {
+      "userCrocCode": "code69",
+      "login": "login69",
+      "spent": 9904,
+      "numberOfPurchases": 3
+    },
+    {
+      "userCrocCode": "code70",
+      "login": "login70",
+      "spent": 2779,
+      "numberOfPurchases": 4
+    },
+    {
+      "userCrocCode": "code71",
+      "login": "login71",
+      "spent": 9312,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code72",
+      "login": "login72",
+      "spent": 4513,
+      "numberOfPurchases": 1
+    },
+    {
+      "userCrocCode": "code73",
+      "login": "login73",
+      "spent": 8008,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code74",
+      "login": "login74",
+      "spent": 7409,
+      "numberOfPurchases": 4
+    },
+    {
+      "userCrocCode": "code75",
+      "login": "login75",
+      "spent": 3423,
+      "numberOfPurchases": 3
+    },
+    {
+      "userCrocCode": "code76",
+      "login": "login76",
+      "spent": 4682,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code77",
+      "login": "login77",
+      "spent": 4694,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code78",
+      "login": "login78",
+      "spent": 5671,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code79",
+      "login": "login79",
+      "spent": 4019,
+      "numberOfPurchases": 3
+    },
+    {
+      "userCrocCode": "code80",
+      "login": "login80",
+      "spent": 205,
+      "numberOfPurchases": 10
+    },
+    {
+      "userCrocCode": "code81",
+      "login": "login81",
+      "spent": 3075,
+      "numberOfPurchases": 10
+    },
+    {
+      "userCrocCode": "code82",
+      "login": "login82",
+      "spent": 9151,
+      "numberOfPurchases": 4
+    },
+    {
+      "userCrocCode": "code83",
+      "login": "login83",
+      "spent": 4597,
+      "numberOfPurchases": 8
+    },
+    {
+      "userCrocCode": "code84",
+      "login": "login84",
+      "spent": 3201,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code85",
+      "login": "login85",
+      "spent": 5508,
+      "numberOfPurchases": 2
+    },
+    {
+      "userCrocCode": "code86",
+      "login": "login86",
+      "spent": 4009,
+      "numberOfPurchases": 5
+    },
+    {
+      "userCrocCode": "code87",
+      "login": "login87",
+      "spent": 1809,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code88",
+      "login": "login88",
+      "spent": 9301,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code89",
+      "login": "login89",
+      "spent": 1164,
+      "numberOfPurchases": 9
+    },
+    {
+      "userCrocCode": "code90",
+      "login": "login90",
+      "spent": 4129,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code91",
+      "login": "login91",
+      "spent": 8631,
+      "numberOfPurchases": 10
+    },
+    {
+      "userCrocCode": "code92",
+      "login": "login92",
+      "spent": 5904,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code93",
+      "login": "login93",
+      "spent": 5113,
+      "numberOfPurchases": 4
+    },
+    {
+      "userCrocCode": "code94",
+      "login": "login94",
+      "spent": 6352,
+      "numberOfPurchases": 6
+    },
+    {
+      "userCrocCode": "code95",
+      "login": "login95",
+      "spent": 8046,
+      "numberOfPurchases": 5
+    },
+    {
+      "userCrocCode": "code96",
+      "login": "login96",
+      "spent": 5651,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code97",
+      "login": "login97",
+      "spent": 6597,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code98",
+      "login": "login98",
+      "spent": 8450,
+      "numberOfPurchases": 7
+    },
+    {
+      "userCrocCode": "code99",
+      "login": "login99",
+      "spent": 8554,
+      "numberOfPurchases": 10
+    }
+  ]

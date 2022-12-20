@@ -1,0 +1,106 @@
+{
+    "spent": 4000,
+    "tickets": 253,
+    "fortuneItems": [
+      {
+        "id": "0",
+        "lotName": "Кружка",
+        "tickets": 51,
+        "percent": 21,
+        "totalSpentInRub": 1101,
+        "discountTickets": [
+          {
+            "discount": 10,
+            "tickets": 20
+          },
+          {
+            "discount": 30,
+            "tickets": 120
+          },
+          {
+            "discount": 40,
+            "tickets": 220
+          },
+          {
+            "discount": 50,
+            "tickets": 320
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "lotName": "Пуфик",
+        "tickets": 52,
+        "percent": 22,
+        "totalSpentInRub": 1102,
+        "discountTickets": [
+          {
+            "discount": 10,
+            "tickets": 220
+          },
+          {
+            "discount": 30,
+            "tickets": 2120
+          },
+          {
+            "discount": 40,
+            "tickets": 2220
+          },
+          {
+            "discount": 50,
+            "tickets": 2320
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "lotName": "Кофемашинка",
+        "tickets": 50,
+        "percent": 25,
+        "totalSpentInRub": 1100,
+        "discountTickets": [
+          {
+            "discount": 10,
+            "tickets": 320
+          },
+          {
+            "discount": 30,
+            "tickets": 1230
+          },
+          {
+            "discount": 40,
+            "tickets": 3220
+          },
+          {
+            "discount": 50,
+            "tickets": 3320
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "lotName": "Шоколадка",
+        "tickets": 50,
+        "percent": 25,
+        "totalSpentInRub": 1100,
+        "discountTickets": [
+          {
+            "discount": 10,
+            "tickets": 40
+          },
+          {
+            "discount": 30,
+            "tickets": 140
+          },
+          {
+            "discount": 40,
+            "tickets": 240
+          },
+          {
+            "discount": 50,
+            "tickets": 340
+          }
+        ]
+      }
+    ]
+  }

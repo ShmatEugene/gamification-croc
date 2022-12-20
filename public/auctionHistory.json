@@ -1,0 +1,108 @@
+[
+    {
+      "auctionId": 1,
+      "saveDate": "11-06-2022",
+      "isCalculationActive": true,
+      "lotName": "string1",
+      "lotPriceInRub": 0,
+      "minNumberOfParticipants": 0,
+      "bidRange": {
+        "from": 0,
+        "to": 0
+      },
+      "departments": [
+        {
+          "id": 0,
+          "isChecked": true,
+          "departmentName": "string",
+          "giniCoefficient": "string",
+          "minimumBalance": 0,
+          "maximumBalance": 0,
+          "numberOfStaff": 0,
+          "staff": [
+            {
+              "userCrocCode": "string",
+              "availableBalance": 0,
+              "userName": "string",
+              "userLastName": "string",
+              "userFirstName": "string",
+              "userMiddleName": "string",
+              "login": "string",
+              "spent": 0,
+              "numberOfPurchases": 0,
+              "missionsCompleted": 0,
+              "earned": 0
+            }
+          ]
+        }
+      ],
+      "mergedEmployees": [
+        {
+          "userCrocCode": "string",
+          "availableBalance": 0,
+          "userName": "string",
+          "userLastName": "string",
+          "userFirstName": "string",
+          "userMiddleName": "string",
+          "login": "string",
+          "spent": 0,
+          "numberOfPurchases": 0,
+          "missionsCompleted": 0,
+          "earned": 0
+        }
+      ]
+    },
+    {
+        "auctionId": 2,
+        "saveDate": "11-06-2022",
+        "isCalculationActive": true,
+        "lotName": "string2",
+        "lotPriceInRub": 0,
+        "minNumberOfParticipants": 0,
+        "bidRange": {
+          "from": 0,
+          "to": 0
+        },
+        "departments": [
+          {
+            "id": 0,
+            "isChecked": true,
+            "departmentName": "string",
+            "giniCoefficient": "string",
+            "minimumBalance": 0,
+            "maximumBalance": 0,
+            "numberOfStaff": 0,
+            "staff": [
+              {
+                "userCrocCode": "string",
+                "availableBalance": 0,
+                "userName": "string",
+                "userLastName": "string",
+                "userFirstName": "string",
+                "userMiddleName": "string",
+                "login": "string",
+                "spent": 0,
+                "numberOfPurchases": 0,
+                "missionsCompleted": 0,
+                "earned": 0
+              }
+            ]
+          }
+        ],
+        "mergedEmployees": [
+          {
+            "userCrocCode": "string",
+            "availableBalance": 0,
+            "userName": "string",
+            "userLastName": "string",
+            "userFirstName": "string",
+            "userMiddleName": "string",
+            "login": "string",
+            "spent": 0,
+            "numberOfPurchases": 0,
+            "missionsCompleted": 0,
+            "earned": 0
+          }
+        ]
+      }
+  ]

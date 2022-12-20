@@ -1,0 +1,502 @@
+[
+    {
+      "login": "login0",
+      "earned": 6765,
+      "missionsCompleted": 9
+    },
+    {
+      "login": "login1",
+      "earned": 8220,
+      "missionsCompleted": 13
+    },
+    {
+      "login": "login2",
+      "earned": 7501,
+      "missionsCompleted": 7
+    },
+    {
+      "login": "login3",
+      "earned": 8224,
+      "missionsCompleted": 19
+    },
+    {
+      "login": "login4",
+      "earned": 6777,
+      "missionsCompleted": 14
+    },
+    {
+      "login": "login5",
+      "earned": 4491,
+      "missionsCompleted": 1
+    },
+    {
+      "login": "login6",
+      "earned": 4262,
+      "missionsCompleted": 11
+    },
+    {
+      "login": "login7",
+      "earned": 9709,
+      "missionsCompleted": 18
+    },
+    {
+      "login": "login8",
+      "earned": 9488,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login9",
+      "earned": 9657,
+      "missionsCompleted": 12
+    },
+    {
+      "login": "login10",
+      "earned": 5998,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login11",
+      "earned": 2436,
+      "missionsCompleted": 12
+    },
+    {
+      "login": "login12",
+      "earned": 2303,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login13",
+      "earned": 5578,
+      "missionsCompleted": 10
+    },
+    {
+      "login": "login14",
+      "earned": 598,
+      "missionsCompleted": 6
+    },
+    {
+      "login": "login15",
+      "earned": 2440,
+      "missionsCompleted": 7
+    },
+    {
+      "login": "login16",
+      "earned": 7886,
+      "missionsCompleted": 9
+    },
+    {
+      "login": "login17",
+      "earned": 7660,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login18",
+      "earned": 9280,
+      "missionsCompleted": 17
+    },
+    {
+      "login": "login19",
+      "earned": 8457,
+      "missionsCompleted": 4
+    },
+    {
+      "login": "login20",
+      "earned": 9984,
+      "missionsCompleted": 10
+    },
+    {
+      "login": "login21",
+      "earned": 8921,
+      "missionsCompleted": 1
+    },
+    {
+      "login": "login22",
+      "earned": 6880,
+      "missionsCompleted": 1
+    },
+    {
+      "login": "login23",
+      "earned": 8667,
+      "missionsCompleted": 5
+    },
+    {
+      "login": "login24",
+      "earned": 1513,
+      "missionsCompleted": 15
+    },
+    {
+      "login": "login25",
+      "earned": 735,
+      "missionsCompleted": 17
+    },
+    {
+      "login": "login26",
+      "earned": 5447,
+      "missionsCompleted": 19
+    },
+    {
+      "login": "login27",
+      "earned": 9680,
+      "missionsCompleted": 9
+    },
+    {
+      "login": "login28",
+      "earned": 3326,
+      "missionsCompleted": 1
+    },
+    {
+      "login": "login29",
+      "earned": 2187,
+      "missionsCompleted": 19
+    },
+    {
+      "login": "login30",
+      "earned": 5442,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login31",
+      "earned": 828,
+      "missionsCompleted": 8
+    },
+    {
+      "login": "login32",
+      "earned": 8232,
+      "missionsCompleted": 9
+    },
+    {
+      "login": "login33",
+      "earned": 2048,
+      "missionsCompleted": 4
+    },
+    {
+      "login": "login34",
+      "earned": 79,
+      "missionsCompleted": 13
+    },
+    {
+      "login": "login35",
+      "earned": 7044,
+      "missionsCompleted": 12
+    },
+    {
+      "login": "login36",
+      "earned": 9826,
+      "missionsCompleted": 18
+    },
+    {
+      "login": "login37",
+      "earned": 4038,
+      "missionsCompleted": 11
+    },
+    {
+      "login": "login38",
+      "earned": 8059,
+      "missionsCompleted": 5
+    },
+    {
+      "login": "login39",
+      "earned": 9270,
+      "missionsCompleted": 20
+    },
+    {
+      "login": "login40",
+      "earned": 3477,
+      "missionsCompleted": 8
+    },
+    {
+      "login": "login41",
+      "earned": 1944,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login42",
+      "earned": 8089,
+      "missionsCompleted": 11
+    },
+    {
+      "login": "login43",
+      "earned": 3417,
+      "missionsCompleted": 12
+    },
+    {
+      "login": "login44",
+      "earned": 7487,
+      "missionsCompleted": 19
+    },
+    {
+      "login": "login45",
+      "earned": 458,
+      "missionsCompleted": 10
+    },
+    {
+      "login": "login46",
+      "earned": 7377,
+      "missionsCompleted": 18
+    },
+    {
+      "login": "login47",
+      "earned": 5666,
+      "missionsCompleted": 11
+    },
+    {
+      "login": "login48",
+      "earned": 3938,
+      "missionsCompleted": 12
+    },
+    {
+      "login": "login49",
+      "earned": 5136,
+      "missionsCompleted": 9
+    },
+    {
+      "login": "login50",
+      "earned": 5684,
+      "missionsCompleted": 17
+    },
+    {
+      "login": "login51",
+      "earned": 9652,
+      "missionsCompleted": 20
+    },
+    {
+      "login": "login52",
+      "earned": 8941,
+      "missionsCompleted": 18
+    },
+    {
+      "login": "login53",
+      "earned": 5642,
+      "missionsCompleted": 19
+    },
+    {
+      "login": "login54",
+      "earned": 8225,
+      "missionsCompleted": 10
+    },
+    {
+      "login": "login55",
+      "earned": 625,
+      "missionsCompleted": 9
+    },
+    {
+      "login": "login56",
+      "earned": 5980,
+      "missionsCompleted": 2
+    },
+    {
+      "login": "login57",
+      "earned": 2737,
+      "missionsCompleted": 20
+    },
+    {
+      "login": "login58",
+      "earned": 8603,
+      "missionsCompleted": 10
+    },
+    {
+      "login": "login59",
+      "earned": 4260,
+      "missionsCompleted": 15
+    },
+    {
+      "login": "login60",
+      "earned": 304,
+      "missionsCompleted": 18
+    },
+    {
+      "login": "login61",
+      "earned": 8968,
+      "missionsCompleted": 10
+    },
+    {
+      "login": "login62",
+      "earned": 8541,
+      "missionsCompleted": 14
+    },
+    {
+      "login": "login63",
+      "earned": 2095,
+      "missionsCompleted": 14
+    },
+    {
+      "login": "login64",
+      "earned": 1826,
+      "missionsCompleted": 12
+    },
+    {
+      "login": "login65",
+      "earned": 9501,
+      "missionsCompleted": 17
+    },
+    {
+      "login": "login66",
+      "earned": 3132,
+      "missionsCompleted": 14
+    },
+    {
+      "login": "login67",
+      "earned": 6364,
+      "missionsCompleted": 5
+    },
+    {
+      "login": "login68",
+      "earned": 360,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login69",
+      "earned": 4989,
+      "missionsCompleted": 18
+    },
+    {
+      "login": "login70",
+      "earned": 5797,
+      "missionsCompleted": 2
+    },
+    {
+      "login": "login71",
+      "earned": 2617,
+      "missionsCompleted": 12
+    },
+    {
+      "login": "login72",
+      "earned": 8204,
+      "missionsCompleted": 2
+    },
+    {
+      "login": "login73",
+      "earned": 7308,
+      "missionsCompleted": 10
+    },
+    {
+      "login": "login74",
+      "earned": 5590,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login75",
+      "earned": 8540,
+      "missionsCompleted": 9
+    },
+    {
+      "login": "login76",
+      "earned": 8379,
+      "missionsCompleted": 17
+    },
+    {
+      "login": "login77",
+      "earned": 5452,
+      "missionsCompleted": 8
+    },
+    {
+      "login": "login78",
+      "earned": 9716,
+      "missionsCompleted": 16
+    },
+    {
+      "login": "login79",
+      "earned": 5033,
+      "missionsCompleted": 7
+    },
+    {
+      "login": "login80",
+      "earned": 186,
+      "missionsCompleted": 11
+    },
+    {
+      "login": "login81",
+      "earned": 5807,
+      "missionsCompleted": 15
+    },
+    {
+      "login": "login82",
+      "earned": 6861,
+      "missionsCompleted": 16
+    },
+    {
+      "login": "login83",
+      "earned": 2077,
+      "missionsCompleted": 7
+    },
+    {
+      "login": "login84",
+      "earned": 6431,
+      "missionsCompleted": 11
+    },
+    {
+      "login": "login85",
+      "earned": 282,
+      "missionsCompleted": 12
+    },
+    {
+      "login": "login86",
+      "earned": 5176,
+      "missionsCompleted": 18
+    },
+    {
+      "login": "login87",
+      "earned": 3176,
+      "missionsCompleted": 9
+    },
+    {
+      "login": "login88",
+      "earned": 2364,
+      "missionsCompleted": 17
+    },
+    {
+      "login": "login89",
+      "earned": 7118,
+      "missionsCompleted": 20
+    },
+    {
+      "login": "login90",
+      "earned": 6076,
+      "missionsCompleted": 17
+    },
+    {
+      "login": "login91",
+      "earned": 8619,
+      "missionsCompleted": 2
+    },
+    {
+      "login": "login92",
+      "earned": 429,
+      "missionsCompleted": 19
+    },
+    {
+      "login": "login93",
+      "earned": 6832,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login94",
+      "earned": 1057,
+      "missionsCompleted": 5
+    },
+    {
+      "login": "login95",
+      "earned": 2932,
+      "missionsCompleted": 3
+    },
+    {
+      "login": "login96",
+      "earned": 9630,
+      "missionsCompleted": 7
+    },
+    {
+      "login": "login97",
+      "earned": 3613,
+      "missionsCompleted": 20
+    },
+    {
+      "login": "login98",
+      "earned": 1625,
+      "missionsCompleted": 7
+    },
+    {
+      "login": "login99",
+      "earned": 2743,
+      "missionsCompleted": 16
+    }
+  ]

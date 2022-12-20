@@ -1,0 +1,9 @@
+.auction-form {
+	position: relative;
+	.ant-input-number {
+		width: 100%;
+	}
+	.ant-form-item:last-child {
+		margin-bottom: 0;
+	}
+}

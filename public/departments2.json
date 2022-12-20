@@ -1,0 +1,832 @@
+[
+    {
+      "id": 0,
+      "departmentName": "Inventure",
+      "giniCoefficient": 0.99,
+      "minimumBalance": 593,
+      "maximumBalance": 38427,
+      "numberOfStaff": 40,
+      "staff": [
+        {
+          "userCrocCode": "code0",
+          "availableBalance": 49863,
+          "userName1": "Bradley Gonzalez",
+          "userLastName": "Shelton",
+          "userFirstName": "Imelda",
+          "userMiddleName": "Lourdes"
+        },
+        {
+          "userCrocCode": "code1",
+          "availableBalance": 32049,
+          "userName1": "Collier Herman",
+          "userLastName": "Johnson",
+          "userFirstName": "Violet",
+          "userMiddleName": "Deann"
+        },
+        {
+          "userCrocCode": "code2",
+          "availableBalance": 29574,
+          "userName1": "Aimee Horn",
+          "userLastName": "Mcleod",
+          "userFirstName": "Gonzales",
+          "userMiddleName": "Lucille"
+        },
+        {
+          "userCrocCode": "code3",
+          "availableBalance": 38638,
+          "userName1": "Suzette Mcclain",
+          "userLastName": "Christie",
+          "userFirstName": "Carlson",
+          "userMiddleName": "Marian"
+        },
+        {
+          "userCrocCode": "code4",
+          "availableBalance": 31488,
+          "userName1": "Bond Hill",
+          "userLastName": "Harriett",
+          "userFirstName": "Bryant",
+          "userMiddleName": "Holden"
+        },
+        {
+          "userCrocCode": "code5",
+          "availableBalance": 35329,
+          "userName1": "Jeri Jacobson",
+          "userLastName": "Roberson",
+          "userFirstName": "Jerry",
+          "userMiddleName": "Ray"
+        },
+        {
+          "userCrocCode": "code6",
+          "availableBalance": 18302,
+          "userName1": "Hinton Erickson",
+          "userLastName": "Tran",
+          "userFirstName": "Gibbs",
+          "userMiddleName": "Cooper"
+        },
+        {
+          "userCrocCode": "code7",
+          "availableBalance": 9193,
+          "userName1": "Boyd Cantu",
+          "userLastName": "Shannon",
+          "userFirstName": "Kelly",
+          "userMiddleName": "Savannah"
+        },
+        {
+          "userCrocCode": "code8",
+          "availableBalance": 22215,
+          "userName1": "Acosta Dunlap",
+          "userLastName": "Barbra",
+          "userFirstName": "Beulah",
+          "userMiddleName": "Webster"
+        },
+        {
+          "userCrocCode": "code9",
+          "availableBalance": 24207,
+          "userName1": "Mccarty Stone",
+          "userLastName": "Tisha",
+          "userFirstName": "Kidd",
+          "userMiddleName": "Dawn"
+        },
+        {
+          "userCrocCode": "code10",
+          "availableBalance": 13262,
+          "userName1": "Deana Lloyd",
+          "userLastName": "Lenore",
+          "userFirstName": "Moss",
+          "userMiddleName": "Franks"
+        },
+        {
+          "userCrocCode": "code11",
+          "availableBalance": 31951,
+          "userName1": "Merrill Allen",
+          "userLastName": "Daugherty",
+          "userFirstName": "Rodriguez",
+          "userMiddleName": "Tracey"
+        },
+        {
+          "userCrocCode": "code12",
+          "availableBalance": 29708,
+          "userName1": "Deanna Sherman",
+          "userLastName": "Mary",
+          "userFirstName": "Graham",
+          "userMiddleName": "Oneal"
+        },
+        {
+          "userCrocCode": "code13",
+          "availableBalance": 42308,
+          "userName1": "Farley Valdez",
+          "userLastName": "Bradshaw",
+          "userFirstName": "Shari",
+          "userMiddleName": "Leticia"
+        },
+        {
+          "userCrocCode": "code14",
+          "availableBalance": 23307,
+          "userName1": "Susana Quinn",
+          "userLastName": "Amy",
+          "userFirstName": "Frazier",
+          "userMiddleName": "Daniels"
+        },
+        {
+          "userCrocCode": "code15",
+          "availableBalance": 5667,
+          "userName1": "Erma Mendez",
+          "userLastName": "Black",
+          "userFirstName": "Iva",
+          "userMiddleName": "Susan"
+        },
+        {
+          "userCrocCode": "code16",
+          "availableBalance": 31334,
+          "userName1": "Diana Gallagher",
+          "userLastName": "Cleveland",
+          "userFirstName": "Connie",
+          "userMiddleName": "Dena"
+        },
+        {
+          "userCrocCode": "code17",
+          "availableBalance": 3244,
+          "userName1": "Beasley Camacho",
+          "userLastName": "Estella",
+          "userFirstName": "Alma",
+          "userMiddleName": "Massey"
+        },
+        {
+          "userCrocCode": "code18",
+          "availableBalance": 32153,
+          "userName1": "Penelope Morton",
+          "userLastName": "Mack",
+          "userFirstName": "Sanchez",
+          "userMiddleName": "Jill"
+        },
+        {
+          "userCrocCode": "code19",
+          "availableBalance": 36288,
+          "userName1": "Lynnette Hardy",
+          "userLastName": "Molina",
+          "userFirstName": "Walker",
+          "userMiddleName": "Melendez"
+        },
+        {
+          "userCrocCode": "code20",
+          "availableBalance": 48480,
+          "userName1": "Cecile Summers",
+          "userLastName": "Santana",
+          "userFirstName": "Jewel",
+          "userMiddleName": "Jamie"
+        },
+        {
+          "userCrocCode": "code21",
+          "availableBalance": 520,
+          "userName1": "Jody Hebert",
+          "userLastName": "Sondra",
+          "userFirstName": "Horne",
+          "userMiddleName": "Bryan"
+        },
+        {
+          "userCrocCode": "code22",
+          "availableBalance": 6230,
+          "userName1": "Kirk Dejesus",
+          "userLastName": "Head",
+          "userFirstName": "Monique",
+          "userMiddleName": "Daphne"
+        },
+        {
+          "userCrocCode": "code23",
+          "availableBalance": 21126,
+          "userName1": "Pennington Avery",
+          "userLastName": "Fernandez",
+          "userFirstName": "Marci",
+          "userMiddleName": "Robert"
+        },
+        {
+          "userCrocCode": "code24",
+          "availableBalance": 11026,
+          "userName1": "Teri Bradford",
+          "userLastName": "Boyle",
+          "userFirstName": "Dixon",
+          "userMiddleName": "Justice"
+        },
+        {
+          "userCrocCode": "code25",
+          "availableBalance": 21771,
+          "userName1": "Glenda Pope",
+          "userLastName": "Bridget",
+          "userFirstName": "Weber",
+          "userMiddleName": "Carmen"
+        },
+        {
+          "userCrocCode": "code26",
+          "availableBalance": 31894,
+          "userName1": "Herman James",
+          "userLastName": "Wanda",
+          "userFirstName": "Bertie",
+          "userMiddleName": "Willis"
+        },
+        {
+          "userCrocCode": "code27",
+          "availableBalance": 26159,
+          "userName1": "Cook Macdonald",
+          "userLastName": "Ida",
+          "userFirstName": "Celia",
+          "userMiddleName": "Coffey"
+        },
+        {
+          "userCrocCode": "code28",
+          "availableBalance": 7150,
+          "userName1": "Georgia Kim",
+          "userLastName": "Michael",
+          "userFirstName": "Mckay",
+          "userMiddleName": "Cervantes"
+        },
+        {
+          "userCrocCode": "code29",
+          "availableBalance": 40296,
+          "userName1": "Kane Cox",
+          "userLastName": "Best",
+          "userFirstName": "Gross",
+          "userMiddleName": "Alicia"
+        },
+        {
+          "userCrocCode": "code30",
+          "availableBalance": 42342,
+          "userName1": "Buckley Riley",
+          "userLastName": "Kay",
+          "userFirstName": "Little",
+          "userMiddleName": "Gay"
+        },
+        {
+          "userCrocCode": "code31",
+          "availableBalance": 7873,
+          "userName1": "Stanton Bonner",
+          "userLastName": "Bauer",
+          "userFirstName": "Greta",
+          "userMiddleName": "Conner"
+        },
+        {
+          "userCrocCode": "code32",
+          "availableBalance": 34492,
+          "userName1": "Bettie Gregory",
+          "userLastName": "Hopper",
+          "userFirstName": "Anastasia",
+          "userMiddleName": "Harriet"
+        },
+        {
+          "userCrocCode": "code33",
+          "availableBalance": 34949,
+          "userName1": "Trujillo Alston",
+          "userLastName": "Faulkner",
+          "userFirstName": "Glass",
+          "userMiddleName": "Selma"
+        },
+        {
+          "userCrocCode": "code34",
+          "availableBalance": 456,
+          "userName1": "Russell Fields",
+          "userLastName": "Courtney",
+          "userFirstName": "Cobb",
+          "userMiddleName": "Janice"
+        },
+        {
+          "userCrocCode": "code35",
+          "availableBalance": 47090,
+          "userName1": "Curry Justice",
+          "userLastName": "Douglas",
+          "userFirstName": "Alisha",
+          "userMiddleName": "Elba"
+        },
+        {
+          "userCrocCode": "code36",
+          "availableBalance": 49632,
+          "userName1": "Ora Tucker",
+          "userLastName": "Fulton",
+          "userFirstName": "Goldie",
+          "userMiddleName": "Delgado"
+        },
+        {
+          "userCrocCode": "code37",
+          "availableBalance": 14974,
+          "userName1": "Dominique Hampton",
+          "userLastName": "Smith",
+          "userFirstName": "Mullins",
+          "userMiddleName": "Rodriquez"
+        },
+        {
+          "userCrocCode": "code38",
+          "availableBalance": 22536,
+          "userName1": "Lesley Chang",
+          "userLastName": "Melton",
+          "userFirstName": "Cline",
+          "userMiddleName": "Dominguez"
+        },
+        {
+          "userCrocCode": "code39",
+          "availableBalance": 49550,
+          "userName1": "Nell Mercer",
+          "userLastName": "Collins",
+          "userFirstName": "Rosa",
+          "userMiddleName": "Lane"
+        }
+      ]
+    },
+    {
+        "id": 0,
+        "departmentName": "Rooforia",
+        "giniCoefficient": 0.12,
+        "minimumBalance": 370,
+        "maximumBalance": 30409,
+        "numberOfStaff": 40,
+        "staff": [
+          {
+            "userCrocCode": "code40",
+            "availableBalance": 5037,
+            "userName1": "Bradford Gallegos",
+            "userLastName": "Tara",
+            "userFirstName": "Campbell",
+            "userMiddleName": "Melissa"
+          },
+          {
+            "userCrocCode": "code41",
+            "availableBalance": 29113,
+            "userName1": "Faulkner Perkins",
+            "userLastName": "Foster",
+            "userFirstName": "Woods",
+            "userMiddleName": "Rhea"
+          },
+          {
+            "userCrocCode": "code42",
+            "availableBalance": 28918,
+            "userName1": "Rosario Boyd",
+            "userLastName": "Celina",
+            "userFirstName": "Williams",
+            "userMiddleName": "Janell"
+          },
+          {
+            "userCrocCode": "code43",
+            "availableBalance": 12026,
+            "userName1": "Robles Chapman",
+            "userLastName": "Oconnor",
+            "userFirstName": "Snyder",
+            "userMiddleName": "Hodges"
+          },
+          {
+            "userCrocCode": "code44",
+            "availableBalance": 353,
+            "userName1": "Valerie Ruiz",
+            "userLastName": "Florence",
+            "userFirstName": "Turner",
+            "userMiddleName": "Francine"
+          },
+          {
+            "userCrocCode": "code45",
+            "availableBalance": 43010,
+            "userName1": "Lindsey Bond",
+            "userLastName": "Patrick",
+            "userFirstName": "Lupe",
+            "userMiddleName": "Marcy"
+          },
+          {
+            "userCrocCode": "code46",
+            "availableBalance": 13630,
+            "userName1": "Velazquez Key",
+            "userLastName": "Holloway",
+            "userFirstName": "Oneill",
+            "userMiddleName": "Shawna"
+          },
+          {
+            "userCrocCode": "code47",
+            "availableBalance": 47487,
+            "userName1": "May Hudson",
+            "userLastName": "Medina",
+            "userFirstName": "Jeanne",
+            "userMiddleName": "Alba"
+          },
+          {
+            "userCrocCode": "code48",
+            "availableBalance": 41994,
+            "userName1": "Kara Hoover",
+            "userLastName": "Eddie",
+            "userFirstName": "Lina",
+            "userMiddleName": "Mcguire"
+          },
+          {
+            "userCrocCode": "code49",
+            "availableBalance": 36670,
+            "userName1": "Jenny Haney",
+            "userLastName": "Hilda",
+            "userFirstName": "Maricela",
+            "userMiddleName": "Melendez"
+          },
+          {
+            "userCrocCode": "code50",
+            "availableBalance": 31299,
+            "userName1": "Kristie Moody",
+            "userLastName": "Horn",
+            "userFirstName": "Ford",
+            "userMiddleName": "Dena"
+          },
+          {
+            "userCrocCode": "code51",
+            "availableBalance": 25811,
+            "userName1": "Katherine Burgess",
+            "userLastName": "Mcfarland",
+            "userFirstName": "Roman",
+            "userMiddleName": "Tammi"
+          },
+          {
+            "userCrocCode": "code52",
+            "availableBalance": 28478,
+            "userName1": "Marci Perry",
+            "userLastName": "Ayers",
+            "userFirstName": "Bessie",
+            "userMiddleName": "Flora"
+          },
+          {
+            "userCrocCode": "code53",
+            "availableBalance": 23120,
+            "userName1": "Merle Cabrera",
+            "userLastName": "Middleton",
+            "userFirstName": "Marcella",
+            "userMiddleName": "Sanchez"
+          },
+          {
+            "userCrocCode": "code54",
+            "availableBalance": 24015,
+            "userName1": "Stacie Velazquez",
+            "userLastName": "Suarez",
+            "userFirstName": "Cassie",
+            "userMiddleName": "Rogers"
+          },
+          {
+            "userCrocCode": "code55",
+            "availableBalance": 25756,
+            "userName1": "Barbara Walsh",
+            "userLastName": "Savannah",
+            "userFirstName": "Conrad",
+            "userMiddleName": "Cummings"
+          },
+          {
+            "userCrocCode": "code56",
+            "availableBalance": 26174,
+            "userName1": "Fowler Hutchinson",
+            "userLastName": "Dollie",
+            "userFirstName": "Bridget",
+            "userMiddleName": "Owens"
+          },
+          {
+            "userCrocCode": "code57",
+            "availableBalance": 16844,
+            "userName1": "Gertrude Lynch",
+            "userLastName": "Mann",
+            "userFirstName": "Pugh",
+            "userMiddleName": "Hoover"
+          },
+          {
+            "userCrocCode": "code58",
+            "availableBalance": 41450,
+            "userName1": "Mack Maynard",
+            "userLastName": "Nell",
+            "userFirstName": "Kane",
+            "userMiddleName": "Ochoa"
+          },
+          {
+            "userCrocCode": "code59",
+            "availableBalance": 44896,
+            "userName1": "Susanne Blanchard",
+            "userLastName": "Sarah",
+            "userFirstName": "Wendi",
+            "userMiddleName": "Deirdre"
+          },
+          {
+            "userCrocCode": "code60",
+            "availableBalance": 39182,
+            "userName1": "Rosie Russo",
+            "userLastName": "Bentley",
+            "userFirstName": "Warren",
+            "userMiddleName": "Campos"
+          },
+          {
+            "userCrocCode": "code61",
+            "availableBalance": 21270,
+            "userName1": "Britney Hebert",
+            "userLastName": "Desiree",
+            "userFirstName": "Haney",
+            "userMiddleName": "Ferguson"
+          },
+          {
+            "userCrocCode": "code62",
+            "availableBalance": 27217,
+            "userName1": "Lee Fitzpatrick",
+            "userLastName": "Cynthia",
+            "userFirstName": "Jannie",
+            "userMiddleName": "Mason"
+          },
+          {
+            "userCrocCode": "code63",
+            "availableBalance": 48481,
+            "userName1": "Wright Gilbert",
+            "userLastName": "Bender",
+            "userFirstName": "Lynnette",
+            "userMiddleName": "Huff"
+          },
+          {
+            "userCrocCode": "code64",
+            "availableBalance": 8257,
+            "userName1": "Lewis Mcdonald",
+            "userLastName": "Valeria",
+            "userFirstName": "Oneil",
+            "userMiddleName": "Ballard"
+          },
+          {
+            "userCrocCode": "code65",
+            "availableBalance": 37911,
+            "userName1": "Osborn Wong",
+            "userLastName": "Summer",
+            "userFirstName": "Carla",
+            "userMiddleName": "Freda"
+          },
+          {
+            "userCrocCode": "code66",
+            "availableBalance": 3988,
+            "userName1": "Pacheco England",
+            "userLastName": "Lucy",
+            "userFirstName": "Ruiz",
+            "userMiddleName": "Greer"
+          },
+          {
+            "userCrocCode": "code67",
+            "availableBalance": 44414,
+            "userName1": "Hurst Wilcox",
+            "userLastName": "Castro",
+            "userFirstName": "Charmaine",
+            "userMiddleName": "Mcconnell"
+          },
+          {
+            "userCrocCode": "code68",
+            "availableBalance": 12017,
+            "userName1": "Solomon Weber",
+            "userLastName": "Sofia",
+            "userFirstName": "Duke",
+            "userMiddleName": "Pearson"
+          },
+          {
+            "userCrocCode": "code69",
+            "availableBalance": 29668,
+            "userName1": "Wall Wallace",
+            "userLastName": "Tillman",
+            "userFirstName": "Joyner",
+            "userMiddleName": "Pittman"
+          },
+          {
+            "userCrocCode": "code70",
+            "availableBalance": 25673,
+            "userName1": "Lilian Garner",
+            "userLastName": "Rasmussen",
+            "userFirstName": "Lelia",
+            "userMiddleName": "Kelley"
+          },
+          {
+            "userCrocCode": "code71",
+            "availableBalance": 31719,
+            "userName1": "Wanda Reese",
+            "userLastName": "Mendez",
+            "userFirstName": "Sylvia",
+            "userMiddleName": "Hillary"
+          },
+          {
+            "userCrocCode": "code72",
+            "availableBalance": 25988,
+            "userName1": "Jennings Potts",
+            "userLastName": "Simpson",
+            "userFirstName": "Ivy",
+            "userMiddleName": "Elisa"
+          },
+          {
+            "userCrocCode": "code73",
+            "availableBalance": 31035,
+            "userName1": "Lancaster Parker",
+            "userLastName": "Acevedo",
+            "userFirstName": "Sargent",
+            "userMiddleName": "Booth"
+          },
+          {
+            "userCrocCode": "code74",
+            "availableBalance": 1240,
+            "userName1": "Lowe Clark",
+            "userLastName": "Stout",
+            "userFirstName": "Natasha",
+            "userMiddleName": "Rowena"
+          },
+          {
+            "userCrocCode": "code75",
+            "availableBalance": 49434,
+            "userName1": "Bettie Joyce",
+            "userLastName": "Gray",
+            "userFirstName": "Taylor",
+            "userMiddleName": "Head"
+          },
+          {
+            "userCrocCode": "code76",
+            "availableBalance": 28808,
+            "userName1": "Boyd Norman",
+            "userLastName": "Shelton",
+            "userFirstName": "Hensley",
+            "userMiddleName": "Gomez"
+          },
+          {
+            "userCrocCode": "code77",
+            "availableBalance": 4639,
+            "userName1": "Becker Dyer",
+            "userLastName": "Cecelia",
+            "userFirstName": "Colleen",
+            "userMiddleName": "Ila"
+          },
+          {
+            "userCrocCode": "code78",
+            "availableBalance": 37196,
+            "userName1": "Christina Yang",
+            "userLastName": "Sullivan",
+            "userFirstName": "Jessica",
+            "userMiddleName": "Lidia"
+          },
+          {
+            "userCrocCode": "code79",
+            "availableBalance": 39670,
+            "userName1": "Liliana Mayer",
+            "userLastName": "Burch",
+            "userFirstName": "Nona",
+            "userMiddleName": "Claudine"
+          }
+        ]
+      },
+      {
+        "id": 0,
+        "departmentName": "Permadyne",
+        "giniCoefficient": 0.85,
+        "minimumBalance": 885,
+        "maximumBalance": 45116,
+        "numberOfStaff": 20,
+        "staff": [
+          {
+            "userCrocCode": "code80",
+            "availableBalance": 22175,
+            "userName1": "Yates Jenkins",
+            "userLastName": "Berry",
+            "userFirstName": "Lawson",
+            "userMiddleName": "Gardner"
+          },
+          {
+            "userCrocCode": "code81",
+            "availableBalance": 34888,
+            "userName1": "Aurora Higgins",
+            "userLastName": "Shawna",
+            "userFirstName": "Jennings",
+            "userMiddleName": "Tammie"
+          },
+          {
+            "userCrocCode": "code82",
+            "availableBalance": 15346,
+            "userName1": "Marion Witt",
+            "userLastName": "Wood",
+            "userFirstName": "Rocha",
+            "userMiddleName": "Lou"
+          },
+          {
+            "userCrocCode": "code83",
+            "availableBalance": 43417,
+            "userName1": "Mcguire Shaffer",
+            "userLastName": "Whitehead",
+            "userFirstName": "Alana",
+            "userMiddleName": "Valeria"
+          },
+          {
+            "userCrocCode": "code84",
+            "availableBalance": 47740,
+            "userName1": "Wynn Owen",
+            "userLastName": "Hernandez",
+            "userFirstName": "Chase",
+            "userMiddleName": "Judy"
+          },
+          {
+            "userCrocCode": "code85",
+            "availableBalance": 49364,
+            "userName1": "Catalina Hampton",
+            "userLastName": "Thompson",
+            "userFirstName": "Debra",
+            "userMiddleName": "Kirsten"
+          },
+          {
+            "userCrocCode": "code86",
+            "availableBalance": 19011,
+            "userName1": "Key Camacho",
+            "userLastName": "Tasha",
+            "userFirstName": "Gilda",
+            "userMiddleName": "Mindy"
+          },
+          {
+            "userCrocCode": "code87",
+            "availableBalance": 3524,
+            "userName1": "Mason Good",
+            "userLastName": "Fletcher",
+            "userFirstName": "Kennedy",
+            "userMiddleName": "Marina"
+          },
+          {
+            "userCrocCode": "code88",
+            "availableBalance": 40955,
+            "userName1": "Jackson Avery",
+            "userLastName": "Burt",
+            "userFirstName": "Hilary",
+            "userMiddleName": "Spence"
+          },
+          {
+            "userCrocCode": "code89",
+            "availableBalance": 20012,
+            "userName1": "Frederick Simpson",
+            "userLastName": "Serena",
+            "userFirstName": "Betsy",
+            "userMiddleName": "Berger"
+          },
+          {
+            "userCrocCode": "code90",
+            "availableBalance": 38447,
+            "userName1": "Ines Hicks",
+            "userLastName": "Shields",
+            "userFirstName": "Tara",
+            "userMiddleName": "Stacy"
+          },
+          {
+            "userCrocCode": "code91",
+            "availableBalance": 28637,
+            "userName1": "Benita Guerra",
+            "userLastName": "Webb",
+            "userFirstName": "Leanne",
+            "userMiddleName": "Alice"
+          },
+          {
+            "userCrocCode": "code92",
+            "availableBalance": 33513,
+            "userName1": "Newman Schroeder",
+            "userLastName": "Griffin",
+            "userFirstName": "Santana",
+            "userMiddleName": "Hartman"
+          },
+          {
+            "userCrocCode": "code93",
+            "availableBalance": 11799,
+            "userName1": "Bradshaw Bryan",
+            "userLastName": "Meagan",
+            "userFirstName": "Lindsay",
+            "userMiddleName": "Carlson"
+          },
+          {
+            "userCrocCode": "code94",
+            "availableBalance": 14124,
+            "userName1": "Mckay Tanner",
+            "userLastName": "Bolton",
+            "userFirstName": "Haley",
+            "userMiddleName": "Alissa"
+          },
+          {
+            "userCrocCode": "code95",
+            "availableBalance": 49538,
+            "userName1": "Turner Newman",
+            "userLastName": "Cristina",
+            "userFirstName": "Minnie",
+            "userMiddleName": "Kim"
+          },
+          {
+            "userCrocCode": "code96",
+            "availableBalance": 48989,
+            "userName1": "Phyllis Ray",
+            "userLastName": "Chrystal",
+            "userFirstName": "Ellis",
+            "userMiddleName": "Carney"
+          },
+          {
+            "userCrocCode": "code97",
+            "availableBalance": 16650,
+            "userName1": "Gail Gallegos",
+            "userLastName": "Gayle",
+            "userFirstName": "Houston",
+            "userMiddleName": "Henson"
+          },
+          {
+            "userCrocCode": "code98",
+            "availableBalance": 45289,
+            "userName1": "Elaine Alexander",
+            "userLastName": "Mckinney",
+            "userFirstName": "Love",
+            "userMiddleName": "Sue"
+          },
+          {
+            "userCrocCode": "code99",
+            "availableBalance": 33265,
+            "userName1": "Melody Mcintosh",
+            "userLastName": "Calderon",
+            "userFirstName": "Stevenson",
+            "userMiddleName": "Sherri"
+          }
+        ]
+      }
+  ]

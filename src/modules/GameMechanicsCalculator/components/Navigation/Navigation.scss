@@ -1,0 +1,56 @@
+@import '../../styles/variables.scss';
+
+.gamification-navigation {
+	&__btn.ant-btn {
+		box-sizing: border-box;
+		outline: 0px;
+		margin: 0px;
+		cursor: pointer;
+		user-select: none;
+		vertical-align: middle;
+		appearance: none;
+		text-decoration: none;
+		font-weight: 500;
+		letter-spacing: 0.02857em;
+		min-width: 64px;
+		padding: 6px 8px;
+		z-index: 0;
+		color: $text-color;
+		box-shadow: none;
+		text-transform: none;
+		font-size: 16px;
+		height: 35px;
+		width: 150px;
+		border-radius: 0px;
+		line-height: 1.5;
+		background-color: white;
+		border: 1px solid rgb(216, 216, 216);
+
+		&.ant-btn-primary {
+			background-color: $primary-color;
+			border: $primary-color;
+			color: $white;
+		}
+		&:hover {
+			background-color: $primary-color;
+			border-color: $primary-color;
+			box-shadow: none;
+			color: $white;
+		}
+	}
+	&__btn_history.ant-btn {
+		width: auto;
+		border-left: none;
+		&:focus {
+			border: 1px solid rgb(216, 216, 216);
+			border-left: none;
+			color: $white;
+		}
+		&:hover {
+			color: $white;
+		}
+	}
+	&__wheel-of-fortune {
+		margin-top: 8px;
+	}
+}

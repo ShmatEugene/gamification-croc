@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Croc';
+
+	src: url('./assets/fonts/Croc-Regular.eot');
+	src: url('./assets/fonts/Croc-Regular.woff') format('woff'),
+		url('./assets/fonts/Croc-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Croc';
+
+	src: url('./assets/fonts/Croc-Bold.eot');
+	src: url('./assets/fonts/Croc-Bold.woff') format('woff'),
+		url('./assets/fonts/Croc-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Croc';
+
+	src: url('./assets/fonts/Croc-Light.eot');
+	src: url('./assets/fonts/Croc-Light.woff') format('woff'),
+		url('./assets/fonts/Croc-Light.ttf') format('truetype');
+	font-weight: 100;
+	font-style: normal;
+}
